@@ -27,3 +27,6 @@ Next folder is "layout", in it we have sass for header, footer.
 Next folder is "pages", for specific pages, like for home page we can have _home.scss
 Next 2 folders are themes and vendor. In vendor folder we can keep 3rd party files and themes we can 
 put scss rules for different themes. We can omit these or any folder application don't require it.
+
+files in components, layout, themes, pages, and vendor are not standard files. They are just added to 
+commit code on git.
