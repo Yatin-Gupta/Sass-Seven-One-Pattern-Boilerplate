@@ -30,3 +30,5 @@ put scss rules for different themes. We can omit these or any folder application
 
 files in components, layout, themes, pages, and vendor are not standard files. They are just added to 
 commit code on git.
+
+main.scss is only for import file not for writing any scss rule.
